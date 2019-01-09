@@ -1,0 +1,7 @@
+File "a"
+Another line from file "a"
+File "b"
+Another line from file "b"
+
+File "c"
+Another line from file "c"
